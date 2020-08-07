@@ -1,6 +1,13 @@
-## Your Name
+## Michael Groves
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a Software Engineer from East London, currently enrolled on a Bootcamp in Software Engineering at Makers Academy, London. I fell in love with software engineering and programming after spending several years working as a Music Producer and Audio Engineer, working with Artists such as Morcheeba, Yonaka and UNKLE.
+Whilst initially dealing with primarily hardware, The world of software 'plugins' took off, offering me a chance to replicate many of the sounds I was creating with decade old hardware in just a single software plugin.
+This bred an unending passion and curiosity with all things software within me, and has led me now down the path of software engineering.
+
+I have also spent many years working in the financial sector as a Collections Executive and AR Officer.
+During my time at McLean Delmo Bentleys, I modernised their system of reporting client debt by inplimenting VBA in Excel due to the great deal of time and paper that was spent on issuing these daily reports for meetings at the company.
+
+
 
 ## Projects
 
@@ -11,15 +18,15 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**BIMM ltd and McLean Delmo Bentleys ** (June 2018 to March 2020)  
+Accounts Receivable/Collections Executive
 
 - Any experience relevent to software development
 
-**Company Name** (start-date to end-date)  
-_Your job title_
 
-- Any experience relevent to software development
+
+
+
 
 ## Skills
 
@@ -42,18 +49,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (July 2020 to October 2020)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### British and Irish Institute of Music (October 2010 to June 2013)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+Bachelors Degree in Professional Musicianship (2.2)
 
 #### Any other qualifications
 
