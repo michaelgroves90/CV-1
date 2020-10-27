@@ -10,7 +10,7 @@
 
 ## About Me
 
-I am a Software Engineer from East London, currently enrolled on a Bootcamp in Software Engineering at Makers Academy, London. I fell in love with software engineering and programming after spending several years working as a Music Producer and Audio Engineer, working with Artists such as Morcheeba, Yonaka and UNKLE.
+I am a Software Engineer from Brighton who has just finished a course in Software Engineering at Makers Academy, London. I fell in love with software engineering and programming after spending several years working as a Music Producer and Audio Engineer, working with Artists such as Morcheeba, Yonaka and UNKLE.
 Whilst initially dealing with primarily hardware, The world of software 'plugins' took off, offering me a chance to replicate many of the sounds I was creating with decade old hardware in just a single software plugin.
 This bred an unending passion and curiosity with all things software within me, and has led me now down the path of software engineering.
 
