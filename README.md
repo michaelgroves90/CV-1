@@ -1,5 +1,4 @@
 
-
 <!DOCTYPE html>
 
 <h1 align="center">Michael Groves</h1>
@@ -34,22 +33,30 @@ During my time at McLean Delmo Bentleys, I streamlined their entire system of re
 #### Problem Solving
 
 During my time spent as an Audio Engineer and Music Producer I developed a very keen eye for recognising problems early and finding solutions fast.
-Whilst the skills I developed working as an engineer with both hardware and software were specialised, 
-they have been a considerable advantage for me whilst studying software development.
+This was then carried over into my work in Accounts where my eye for detail and experience with identifying problems left me in a good position at McLean Delmo Bentleys.
+As their principal Collections Executive I streamlined and modernised their method of reporting aged client debt.
+I have found my commitment to this skill in particular has been a considerable advantage for me whilst studying software development.
 
-#### 
+#### Process
+
+Commitment to producing results.
+
+
+
+#### Communication/Diplomacy
+
+Through my commitment to transparency and unique experience working with indivudals from the financial world and the arts, I have cultivated a consistent ability to develop solid and lasting client relationships and a solid reputation for being someone people can rely on for honest and constructive contributions to my team.
 
 <br>
 
 ## Education
 
-### Makers Coding Bootcamp (August 2020 - October 2020)
-
-Learning how to apply industry-standard best practices to write *clean code* to *solve problems*
+### Makers Academy (August 2020 - October 2020)
+Learning how to apply industry-standard best practices and processes to write *clean code* to *solve problems*.
 
 - **Applying industry-standard practices:**
   - <a title = "Programming paradigm">**OOP**</a>, <a title = "Software Development Process">**TDD**</a> and <a title = "Software Development Process">**BDD**</a>, with testing frameworks: **RSpec**, **Jasmine**, **Jest**, **JUnit**
-  - *Learning skills to become programming language agnostic using:* **Java**, **Ruby**, **Rails**, **Javascript**, **NodeJS**, **React**, **HTML5/CSS**
+  - *Learning skills to become programming language agnostic using:* **Java**, **Ruby**, **Javascript**, **NodeJS**, **React**, **HTML5/CSS**
   - **User Stories**, **Domain Modeling**: **CRC**, **UML**, **Wireframes** diagrams
   - *Linting*, *code quality*, *test coverage* with **rubocop**, **eslint**, **simplecov**
   - <a title = "Continuous Integration/Continuous Deployment/Continuous Delivery">**CI/CD**</a> pipeline with **TravisCI**, **CircleCI** and **Heroku**
@@ -64,7 +71,24 @@ Learning how to apply industry-standard best practices to write *clean code* to 
 
 ## Experience
 
+McLean Delmo Bentleys  - Melbourne Office (December 2019 – March 2020)
+Collections Executive
 
+    • Journals and multi-currency inter-company journals.
+    • Debtor management for 11 company partners, writing databases and use of standard Excel macros, Vlookups and pivot tables.
+    • Using adequate measures to encourage payments before escalating to debt collections.
+    • CFO and partner relationship management.
+    • Preparing meaningful, accurate and timely monthly management reports.
+    
+British and Irish Institute for Modern Music (June 2018 – October 2019)
+AR and Student Finance Advisor
+
+Freelance Song-Writer and Producer
+Contract with Altitude Music London (August 2015 – February 2018)
+Paul Godfrey - Morcheeba (2015)
+
+Audio Engineer and Session Musician (February 2012 – November 2016)
+inc. Yonaka/Morcheeba/Miamigo/KINS/The Confidentials
 
 ## Hobbies & Other Interests
 
