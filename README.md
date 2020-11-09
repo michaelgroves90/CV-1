@@ -54,7 +54,7 @@ Through my commitment to transparency and unique experience working with indivud
 ### Makers Academy (August 2020 - October 2020)
 Learning how to apply industry-standard best practices and processes to write *clean code* to *solve problems*.
 
-- **Applying industry-standard practices:**
+**Applying industry-standard practices:**
   - <a title = "Programming paradigm">**OOP**</a>, <a title = "Software Development Process">**TDD**</a> and <a title = "Software Development Process">**BDD**</a>, with testing frameworks: **RSpec**, **Jasmine**, **Jest**, **JUnit**
   - *Learning skills to become programming language agnostic using:* **Java**, **Ruby**, **Javascript**, **NodeJS**, **React**, **HTML5/CSS**
   - **User Stories**, **Domain Modeling**: **CRC**, **UML**, **Wireframes** diagrams
