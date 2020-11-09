@@ -72,6 +72,7 @@ Learning how to apply industry-standard best practices and processes to write *c
 ## Experience
 
 McLean Delmo Bentleys  - Melbourne Office (December 2019 – March 2020)
+
 Collections Executive
 
     • Journals and multi-currency inter-company journals.
@@ -81,14 +82,24 @@ Collections Executive
     • Preparing meaningful, accurate and timely monthly management reports.
     
 British and Irish Institute for Modern Music (June 2018 – October 2019)
+
 AR and Student Finance Advisor
 
 Freelance Song-Writer and Producer
+
+<br>
+
 Contract with Altitude Music London (August 2015 – February 2018)
+
 Paul Godfrey - Morcheeba (2015)
 
+<br>
+
 Audio Engineer and Session Musician (February 2012 – November 2016)
+
 inc. Yonaka/Morcheeba/Miamigo/KINS/The Confidentials
+
+<br>
 
 ## Hobbies & Other Interests
 
