@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[<img src="https://www.flaticon.com/free-icon/github-logo_25231" title="GitHub" height="24" align="top">&nbsp;GitHub](https://github.com/Djura22)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./icons/linkedin.svg" title="LinkedIn" height="24" align="top">&nbsp;LinkedIn](https://www.linkedin.com/in/michael-groves-4a807b1a6/)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./icons/codewars-icon.svg" title="Codewars" height="24" align="top">&nbsp;Codewars](https://www.codewars.com/users/Djura22)
+[<img src="https://www.flaticon.com/free-icon/github-logo_25231" title="GitHub" height="24" align="top">&nbsp;GitHub](https://github.com/Djura22)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./linkedin-logo.png" title="LinkedIn" height="24" align="top">&nbsp;LinkedIn](https://www.linkedin.com/in/michael-groves-4a807b1a6/)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./icons/codewars-icon.svg" title="Codewars" height="24" align="top">&nbsp;Codewars](https://www.codewars.com/users/Djura22)
 
 ## About Me
 
