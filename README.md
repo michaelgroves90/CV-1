@@ -112,6 +112,6 @@ inc. Yonaka/Morcheeba/Miamigo/KINS/The Confidentials
 ## Hobbies & Other Interests
 
 The pub is often where you will find me, engaging in conversation with friends and enjoying a few gins.
-I am a keen reader, enjoying such subjects as Economics, Philosophy, Politcal Theory. I also love science fiction and fantasy novels.
-Strategy games (chess, computer games)
+I am a keen reader, enjoying such subjects as Economics, Philosophy, and Political Theory. I also love science fiction and fantasy novels. <br>
+Strategy games (chess, computer games) <br>
 I still ocassionally write music and enjoy production and sound design.
