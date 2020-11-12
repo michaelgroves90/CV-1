@@ -23,7 +23,7 @@ During my time at McLean Delmo Bentleys, I streamlined their entire system of re
 |-|-|-|
 | [Chow](https://github.com/ZishJawaid/project_chow) | A Food delivery service app with a difference, focusing on home cooking and local produce with an aim to bring communities together. <br> | Android Studio, Java, Firebase, SQLite |
 | [Nomads](https://github.com/just-tam/makersBnB) | A web application that allows users to list spaces they have available or hire a space for the night. <br> | Ruby, Javascript, MongoDB |
-| [The Shire (WILTB)](https://github.com/Djura22/acebook-whip-it-like-the-balrog) | A fun social media site for Lord of The Rings enthusiasts. <br> | Java, postgreSQL, IntelliJ, React |
+| [The Shire (WILTB)](https://github.com/Djura22/acebook-whip-it-like-the-balrog) | A fun social media site for Lord of The Rings enthusiasts. <br> | Java, PostgreSQL, IntelliJ, React |
 
 ----
 
@@ -42,7 +42,7 @@ I have found my commitment to this skill in particular has been a considerable a
 
 #### Communication/Diplomacy
 
-Through my commitment to transparency and unique experience working with indivudals from the financial world and the arts, I have cultivated a consistent ability to develop solid and lasting client relationships and a solid reputation for being someone people can rely on for honest and constructive contributions to my team.
+Through my commitment to transparency and unique experience working with individuals from the financial world and the arts, I have cultivated a consistent ability to develop solid and lasting client relationships and a solid reputation for being someone people can rely on for honest and constructive contributions to my team.
 During my time working for McLean Delmo Bentleys I had the difficult task of managing targets set by the CFO to collect aged debt whilst ensuring partner client relationships at the firm remained strong. This resulted in being placed often in the middle of any disputes and required a firm but open approach to diplomacy in resolving any conflicts.
 
 #### Process
@@ -114,4 +114,4 @@ inc. Yonaka/Morcheeba/Miamigo/KINS/The Confidentials
 The pub is often where you will find me, engaging in conversation with friends and enjoying a few gins.
 I am a keen reader, enjoying such subjects as Economics, Philosophy, and Political Theory. I also love science fiction and fantasy novels. <br>
 Strategy games (chess, computer games) <br>
-I still ocassionally write music and enjoy production and sound design.
+I still occasionally write music and enjoy production and sound design.
