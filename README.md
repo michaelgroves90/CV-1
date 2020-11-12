@@ -30,24 +30,31 @@ During my time at McLean Delmo Bentleys, I streamlined their entire system of re
 
 ## Skills
 
+I achieved A during my work at B (job, or otherwise)
+I contributed to the growth of X while doing Y (job, or otherwise)
+I built this, made this, broke this, fixed this, etc.
+A link to some on-line evidence (blogs, videos, articles, etc.)
+
 #### Problem Solving
 
 During my time spent as an Audio Engineer and Music Producer I developed a very keen eye for recognising problems early and finding solutions fast.
+A common problem would be recognising undesirable audio 'artifacts', isolating them and removing them with EQ or finding the source. The source could be hardware or
+a software issue, once found I would troubleshoot the issue until it's removed.
 This was then carried over into my work in Accounts where my eye for detail and experience with identifying problems left me in a good position at McLean Delmo Bentleys.
 As their principal Collections Executive I streamlined and modernised their method of reporting aged client debt.
 I have found my commitment to this skill in particular has been a considerable advantage for me whilst studying software development.
 
 #### Process
 
-
-Commitment to producing results.
-
+A firm commitment to TDD in my code (often referred to as Red-Green-Refactor).
 | [Bank Test](https://github.com/Djura22/bank_tech_test_javascript) | An Example of using a TDD approach to constructing a Bank Account. <br> | Javascript |
+
 
 
 #### Communication/Diplomacy
 
 Through my commitment to transparency and unique experience working with indivudals from the financial world and the arts, I have cultivated a consistent ability to develop solid and lasting client relationships and a solid reputation for being someone people can rely on for honest and constructive contributions to my team.
+During my time working for McLean Delmo Bentleys I had the difficult task of managing targets set by the CFO to collect aged debt whilst ensuring partner client relationships at the firm remained strong. This resulted in being placed often in the middle of any disputes and required a 
 
 <br>
 
