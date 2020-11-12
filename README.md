@@ -30,11 +30,6 @@ During my time at McLean Delmo Bentleys, I streamlined their entire system of re
 
 ## Skills
 
-I achieved A during my work at B (job, or otherwise)
-I contributed to the growth of X while doing Y (job, or otherwise)
-I built this, made this, broke this, fixed this, etc.
-A link to some on-line evidence (blogs, videos, articles, etc.)
-
 #### Problem Solving
 
 During my time spent as an Audio Engineer and Music Producer I developed a very keen eye for recognising problems early and finding solutions fast.
@@ -46,7 +41,7 @@ I have found my commitment to this skill in particular has been a considerable a
 
 #### Process
 
-A firm commitment to TDD in my code (often referred to as Red-Green-Refactor).
+A firm commitment to TDD in my code (often referred to as Red-Green-Refactor). <br>
 | [Bank Test](https://github.com/Djura22/bank_tech_test_javascript) | An Example of using a TDD approach to constructing a Bank Account. <br> | Javascript |
 
 
@@ -55,6 +50,12 @@ A firm commitment to TDD in my code (often referred to as Red-Green-Refactor).
 
 Through my commitment to transparency and unique experience working with indivudals from the financial world and the arts, I have cultivated a consistent ability to develop solid and lasting client relationships and a solid reputation for being someone people can rely on for honest and constructive contributions to my team.
 During my time working for McLean Delmo Bentleys I had the difficult task of managing targets set by the CFO to collect aged debt whilst ensuring partner client relationships at the firm remained strong. This resulted in being placed often in the middle of any disputes and required a 
+
+#### Public Speaking
+
+I have always found public speaking to be something which came naturally to me, and which lead me to a brief stint in Theatre where I performed as the lead in a production of 'Hair' at the London Palladium. My time working as a vocalist in a touring band has also allowed me to further strengthen my confidence and ability to speak clearly and to engage with large groups of people.
+You can see a small example of this from my final project presentation at Makers Academy here -
+https://www.youtube.com/watch?v=r4DvY805KIs
 
 <br>
 
