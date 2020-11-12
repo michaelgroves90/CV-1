@@ -25,8 +25,6 @@ During my time at McLean Delmo Bentleys, I streamlined their entire system of re
 | [Nomads](https://github.com/just-tam/makersBnB) | A web application that allows users to list spaces they have available or hire a space for the night. <br> | Ruby, Javascript, MongoDB |
 | [The Shire (WILTB)](https://github.com/Djura22/acebook-whip-it-like-the-balrog) | A fun social media site for Lord of The Rings enthusiasts. <br> | Java, PostgreSQL, IntelliJ, React |
 
-----
-
 <br>
 
 ## Skills
