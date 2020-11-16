@@ -64,7 +64,7 @@ https://www.youtube.com/watch?v=r4DvY805KIs
 
 ### Makers Academy (August 2020 - October 2020)
 
-**Applying industry-standard practices:**
+**Applying industry-standard practices:** <br>
   Object Oriented Programming, Test Driven Development, Behavioural Driven Development with testing frameworks: RSpec, Jasmine, Jest, JUnit
 **Learning skills to become programming language agnostic using:** 
   **Java**, **Ruby**, **Javascript**, **NodeJS**, **React**, **HTML5/CSS**
