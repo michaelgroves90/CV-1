@@ -65,17 +65,17 @@ https://www.youtube.com/watch?v=r4DvY805KIs
 ### Makers Academy (August 2020 - October 2020)
 
 **Applying industry-standard practices:** <br>
-  Object Oriented Programming, Test Driven Development, Behavioural Driven Development with testing frameworks: RSpec, Jasmine, Jest, JUnit
-**Learning skills to become programming language agnostic using:** 
-  **Java**, **Ruby**, **Javascript**, **NodeJS**, **React**, **HTML5/CSS**
-**User Stories**
-**Domain Modeling**: 
-  CRC, UML, Wireframes
-  *Linting*, *code quality*, *test coverage* with **rubocop**, **simplecov**
-Continuous Integration/Continuous Deployment/Continuous Delivery
-  CI/CD pipeline with TravisCI and Heroku
-**Agile Processes** 
-  (~2 week) group projects, Trello, "Minimum Viable Product (MVP), pairing in 2-day sprints, stand-ups, mood check-ins and retros
+  Object Oriented Programming, Test Driven Development, Behavioural Driven Development with testing frameworks: RSpec, Jasmine, Jest, JUnit <br>
+**Learning skills to become programming language agnostic using:** <br>
+  **Java**, **Ruby**, **Javascript**, **NodeJS**, **React**, **HTML5/CSS** <br>
+**User Stories** <br>
+**Domain Modeling**:  <br>
+  CRC, UML, Wireframes <br>
+  *Linting*, *code quality*, *test coverage* with **rubocop**, **simplecov** <br>
+Continuous Integration/Continuous Deployment/Continuous Delivery <br>
+  CI/CD pipeline with TravisCI and Heroku <br>
+**Agile Processes** <br>
+  (~2 week) group projects, Trello, "Minimum Viable Product (MVP), pairing in 2-day sprints, stand-ups, mood check-ins and retros <br>
 
 ### Chartered Insurance Institute - UK financial services, regulation & ethics (93%)
 
@@ -90,11 +90,11 @@ Continuous Integration/Continuous Deployment/Continuous Delivery
 
 Collections Executive
 
-• Journals and multi-currency inter-company journals.
-• Debtor management for 11 company partners, writing databases and use of standard Excel macros, Vlookups and pivot tables. 
-• Using adequate measures to encourage payments before escalating to debt collections.
-• CFO and partner relationship management.
-• Preparing meaningful, accurate and timely monthly management reports.
+• Journals and multi-currency inter-company journals. <br>
+• Debtor management for 11 company partners, writing databases and use of standard Excel macros, Vlookups and pivot tables.  <br>
+• Using adequate measures to encourage payments before escalating to debt collections. <br>
+• CFO and partner relationship management. <br>
+• Preparing meaningful, accurate and timely monthly management reports. <br>
 
 #### British and Irish Institute for Modern Music (June 2018 – October 2019)
 
