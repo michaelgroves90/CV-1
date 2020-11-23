@@ -9,8 +9,7 @@
 
 ## About Me
 
-I am a Software Engineer from Brighton freshly graduated from Software Engineering at Makers Academy, London. My interest was initially piqued after spending several years working as a Music Producer and Audio Engineer.
-After working in the music industry for 7 years with artists such as Morcheeba, Yonaka and UNKLE, I found myself looking for new challenges. 
+I am a Software Engineer from Brighton freshly graduated from Software Engineering at Makers Academy, London. My interest was initially piqued after spending several years working as a Music Producer and Audio Engineer with artists such as Morcheeba and Yonaka, and I found myself looking for new challenges. 
 Now I have completed my time at Makers Academy I am on the hunt for my first professional role in Software Development.
 
 I have also spent many years working in the financial sector as a Collections Executive and AR Officer.
