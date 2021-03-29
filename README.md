@@ -9,7 +9,7 @@
 
 ## About Me
 
-I am a Software Engineer from Brighton freshly graduated from Software Engineering at Makers Academy, London. My interest was initially piqued after spending several years working as a Music Producer and Audio Engineer with artists such as Morcheeba and Yonaka, and I found myself looking for new challenges. 
+I am a Software Engineer from Brighton freshly graduated from Software Engineering at Makers Academy, London. My interest was initially piqued after spending several years working as a Music Producer and Audio Engineer with artists such as Morcheeba and Yonaka. I developed an interest in Cryptography and Blockchain development and I found myself looking to software engineering as a new potential career.
 Now I have completed my time at Makers Academy I am on the hunt for my first professional role in Software Development.
 
 I have also spent many years working in the financial sector as a Collections Executive and AR Officer.
@@ -115,5 +115,6 @@ inc. Yonaka/Morcheeba/Miamigo/KINS/The Confidentials
 
 The pub is often where you will find me, engaging in conversation with friends and enjoying a few gins.
 I am a keen reader, enjoying such subjects as Economics, Philosophy, and Political Theory. I also love science fiction and fantasy novels. <br>
+I am very interested in blockchain technologies and also spend some of my time studying the Cryptocurrency market. <br>
 Strategy games (chess, computer games) <br>
 I still occasionally write music and enjoy production and sound design.
