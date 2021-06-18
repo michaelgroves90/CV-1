@@ -3,7 +3,8 @@
 
 <h1 align="center">Michael Groves</h1>
 
-<h2 align="center">07450968247 michaeliangroves@gmail.com</h2>
+<h3 align="center">07450968247</h3>
+<h3 align="center">michaeliangroves@gmail.com</h3>
 
 <div align="center">
 
