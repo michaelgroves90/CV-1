@@ -3,6 +3,8 @@
 
 <h1 align="center">Michael Groves</h1>
 
+<h2 align="center">07450968247 michaeliangroves@gmail.com</h2>
+
 <div align="center">
 
 [<img src="./github+icon-1320168274457504277.png" title="GitHub" height="24" align="top">&nbsp;GitHub](https://github.com/Djura22)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./linkedin-logo.png" title="LinkedIn" height="24" align="top">&nbsp;LinkedIn](https://www.linkedin.com/in/michael-groves-4a807b1a6/)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./codewars.png" title="Codewars" height="24" align="top">&nbsp;Codewars](https://www.codewars.com/users/Djura22)
