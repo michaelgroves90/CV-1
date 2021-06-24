@@ -14,6 +14,8 @@
 
 I am a Software Engineer from Brighton graduated from Software Engineering at Makers Academy, London. My interest was initially piqued after spending several years working as a Music Producer and Audio Engineer with artists such as Morcheeba and Yonaka. I developed an interest in Cryptocurrencies and Blockchain development and I found myself looking to software engineering as a new potential career.
 Now I have completed my time at Makers Academy I am on the hunt for my first professional role in Software Development.
+  
+Since graduating I have worked on several projects in Typescript and React, developing a serverless API and exploring the benefits of static typing in Javascript. After building a 'soundboard' site for a gaming streamer in vanilla JS, I am now looking to pair my passion for games and the development of games with my new-found interest in Typescript.
 
 I have also spent many years working in the financial sector as a Collections Executive and AR Officer.
 During my time at McLean Delmo Bentleys, I streamlined their entire system of reporting client debt.
@@ -68,7 +70,7 @@ https://www.youtube.com/watch?v=r4DvY805KIs
 **Applying industry-standard practices:** <br>
   Object Oriented Programming, Test Driven Development, Behavioural Driven Development with testing frameworks: RSpec, Jasmine, Jest, JUnit <br>
 **Learning skills to become programming language agnostic using:** <br>
-  **Java**, **Ruby**, **Javascript**, **NodeJS**, **React**, **HTML5/CSS** <br>
+  **Typescript**, **Ruby**, **Javascript**, **NodeJS**, **React**, **HTML5/CSS** <br>
 **User Stories** <br>
 **Domain Modeling**:  <br>
   CRC, UML, Wireframes <br>
