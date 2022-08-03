@@ -3,43 +3,22 @@
 
 <h1 align="center">Michael Groves</h1>
 
-<h3 align="center">07450968247</h3>
-<h3 align="center">michaeliangroves@gmail.com</h3>
-
-<div align="center">
-
-[<img src="./github+icon-1320168274457504277.png" title="GitHub" height="24" align="top">&nbsp;GitHub](https://github.com/Djura22)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./linkedin-logo.png" title="LinkedIn" height="24" align="top">&nbsp;LinkedIn](https://www.linkedin.com/in/michael-groves-4a807b1a6/)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./codewars.png" title="Codewars" height="24" align="top">&nbsp;Codewars](https://www.codewars.com/users/Djura22)
+[Github](https://github.com/michaelgroves90)&nbsp;&nbsp;&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/michael-groves-4a807b1a6/)&nbsp;&nbsp;&nbsp;&nbsp;[Codewars](https://www.codewars.com/users/Djura22)
 
 ## About Me
 
-I am a Software Engineer from Brighton graduated from Software Engineering at Makers Academy, London. My interest was initially piqued after spending several years working as a Music Producer and Audio Engineer with artists such as Morcheeba and Yonaka. I developed an interest in Cryptocurrencies and Blockchain development and I found myself looking to software engineering as a new potential career.
-Now I have completed my time at Makers Academy I am on the hunt for my first professional role in Software Development.
-  
-Since graduating I have worked on several projects in Typescript and React, developing a serverless API and exploring the benefits of static typing in Javascript. After building a 'soundboard' site for a gaming streamer in vanilla JS, I am now looking to pair my passion for games and the development of games with my new-found interest in Typescript.
+I am a Software Developer/Consultant living in Shropshire. Now with a years professional experience under my belt working as a Software Consultant for Capgemini SE, I am keen to start the next phase of my career and have an eye on accelerating my individual growth and furthering the knowledge and experience I have thus far attained. I am looking for an exciting new opportunity with a company that champions innovation and supports ambitious and creative engineers.
 
 I have also spent many years working in the financial sector as a Collections Executive and AR Officer.
-During my time at McLean Delmo Bentleys, I streamlined their entire system of reporting client debt.
-<br>
-
-## Projects
-
-| Project | Description | Technologies |
-|-|-|-|
-| [Chow](https://github.com/ZishJawaid/project_chow) | A Food delivery service app with a difference, focusing on home cooking and local produce with an aim to bring communities together. <br> | Android Studio, Java, Firebase, SQLite |
-| [Nomads](https://github.com/just-tam/makersBnB) | A web application that allows users to list spaces they have available or hire a space for the night. <br> | Ruby, Javascript, MongoDB |
-| [The Shire (WILTB)](https://github.com/Djura22/acebook-whip-it-like-the-balrog) | A fun social media site for Lord of The Rings enthusiasts. <br> | Java, PostgreSQL, IntelliJ, React |
-
-<br>
 
 ## Skills
 
 #### Problem Solving
 
 During my time spent as an Audio Engineer and Music Producer I developed a very keen eye for recognising problems early and finding solutions fast.
-I've found this to be a considerable advantage for me when debugging code.
 This was then carried over into my work in Accounts where my eye for detail and experience with identifying problems left me in a good position at McLean Delmo Bentleys.
 As their principal Collections Executive I streamlined and modernised their method of reporting aged client debt.
-I have found my commitment to this skill in particular has been a considerable advantage for me whilst studying software development.
+I have found my commitment to this skill in particular has been a considerable advantage for me whilst working as a software developer.
 
 #### Communication/Diplomacy
 
@@ -50,7 +29,7 @@ During my time working for McLean Delmo Bentleys I had the difficult task of man
 
 Agile Processes <br>
 A firm commitment to Test Driven Development. <br>
-| [Bank Test](https://github.com/Djura22/bank_tech_test_javascript) | An Example of using a TDD approach to constructing a Bank Account. <br>
+CI/CD Pipeline and DevOps.
 Project Planning: user stories, database structure and relationships, mock-ups.
 Team Processes: pairing, mobbing, retros, check-ins.
 Solid commitment to industry-standard best practices ensuring clean, efficient, readable code (Single Responsibility, DRY).
@@ -58,8 +37,6 @@ Solid commitment to industry-standard best practices ensuring clean, efficient, 
 #### Public Speaking
 
 I have always found public speaking to be something which came naturally to me, and which lead me to a brief stint in Theatre where I performed as the lead in a production of 'Hair' at the London Palladium. My time working as a vocalist in a touring band has also allowed me to further strengthen my confidence and ability to speak clearly and to engage with large groups of people.
-You can see a small example of this from my final project presentation at Makers Academy here -
-https://www.youtube.com/watch?v=r4DvY805KIs
 
 <br>
 
@@ -70,7 +47,7 @@ https://www.youtube.com/watch?v=r4DvY805KIs
 **Applying industry-standard practices:** <br>
   Object Oriented Programming, Test Driven Development, Behavioural Driven Development with testing frameworks: RSpec, Jasmine, Jest, JUnit <br>
 **Learning skills to become programming language agnostic using:** <br>
-  **Typescript**, **Ruby**, **Javascript**, **NodeJS**, **React**, **HTML5/CSS** <br>
+  **Java**, **Ruby**, **Javascript**, **NodeJS**, **React**, **HTML5/CSS** <br>
 **User Stories** <br>
 **Domain Modeling**:  <br>
   CRC, UML, Wireframes <br>
@@ -88,6 +65,24 @@ Continuous Integration/Continuous Deployment/Continuous Delivery <br>
 <br>
 
 ## Experience
+
+#### Capgemini SE - Telford Office (August 2021 - Present)
+
+I currently work as a contractor for Capgemini on HMRC projects. Some of my achievements and responsibilities include:
+
+- Building well tested microservices using Java, Spring Boot and Hibernate. 
+- Used OpenApi to deliver RESTful APIs. 
+- Persued and encouraged TDD with every project and within every team.
+- Defined and refined package structures for the individual microservices. Refactored code and made improvements continuously where necessary. 
+- Built and maintained a Gitlab CI/CD pipeline with multiple stages.
+- Given sole ownership on a new project developing a microservice from end to end using all of the tools and knowledge I acquired.
+- Supported the projects through a full software development lifecycle. 
+- Learned PLSQL on the fly to successfully build an anonymous block for communicating with a Stored Procedure built by database engineers on the project.
+- Worked with agile methodologies within my team.
+- As per request of the management, 'buddied' with and brought up to speed another existing staff member who they had felt was getting left behind on a project.
+
+Technologies and Methodologies Used -
+- Open API · Mockito · JUnit · Spring Cloud · Docker · Gitlab · Oracle Database · Maven · IntelliJ IDEA · DevOps · Hibernate · Java Database Connectivity (JDBC) · Postman · Java · Continuous Integration and Continuous Delivery (CI/CD) · Kubernetes · Spring Boot · Test Driven Development
 
 #### McLean Delmo Bentleys  - Melbourne Office (December 2019 – March 2020)
 
@@ -117,6 +112,7 @@ inc. Yonaka/Morcheeba/Miamigo/KINS/The Confidentials
 
 ## Hobbies & Other Interests
 
-I have a keen interest in nature, I love going hiking and exploring and I'm also a keen reader. 
-I also enjoy strategy games and listening to records. 
-I still occasionally write music and enjoy production and sound design. 
+The pub is often where you will find me, engaging in conversation with friends and enjoying a few gins.
+I am a keen reader, enjoying such subjects as Economics, Philosophy, and Political Theory. I also love science fiction and fantasy novels. <br>
+Strategy games (chess, computer games) <br>
+I still occasionally write music and enjoy production and sound design.
