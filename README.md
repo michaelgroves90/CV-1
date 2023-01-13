@@ -66,7 +66,7 @@ Continuous Integration/Continuous Deployment/Continuous Delivery <br>
 
 ## Experience
 
-#### Capgemini SE - Telford Office (August 2021 - Present)
+#### Capgemini SE (August 2021 - Present)
 
 I currently work as a contractor for Capgemini on HMRC projects. Some of my achievements and responsibilities include:
 
@@ -77,9 +77,8 @@ I currently work as a contractor for Capgemini on HMRC projects. Some of my achi
 - Built and maintained a Gitlab CI/CD pipeline with multiple stages.
 - Given sole ownership on a new project developing a microservice from end to end using all of the tools and knowledge I acquired.
 - Supported the projects through a full software development lifecycle. 
-- Learned PLSQL on the fly to successfully build an anonymous block for communicating with a Stored Procedure built by database engineers on the project.
 - Worked with agile methodologies within my team.
-- As per request of the management, 'buddied' with and brought up to speed another existing staff member who they had felt was getting left behind on a project.
+- Acted as mentor to Junior Developers on various projects.
 
 Technologies and Methodologies Used -
 - Open API · Mockito · JUnit · Spring Cloud · Docker · Gitlab · Oracle Database · Maven · IntelliJ IDEA · DevOps · Hibernate · Java Database Connectivity (JDBC) · Postman · Java · Continuous Integration and Continuous Delivery (CI/CD) · Kubernetes · Spring Boot · Test Driven Development
