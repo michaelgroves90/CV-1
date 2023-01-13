@@ -7,9 +7,10 @@
 
 ## About Me
 
-I am a Software Developer/Consultant living in Shropshire. Now with a years professional experience under my belt working as a Software Consultant for Capgemini SE, I am keen to start the next phase of my career and have an eye on accelerating my individual growth and furthering the knowledge and experience I have thus far attained. I am looking for an exciting new opportunity with a company that champions innovation and supports ambitious and creative engineers.
+I am a Software Developer/Consultant living in Brighton. Now with a years professional experience under my belt working as a Software Consultant for Capgemini SE, I am keen to start the next phase of my career and have an eye on accelerating my individual growth and furthering the knowledge and experience I have thus far attained. I am looking for an exciting new opportunity with a company that champions innovation and supports ambitious and creative engineers.
 
 I have also spent many years working in the financial sector as a Collections Executive and AR Officer.
+I also spent a large portion of my life working as a Freelance Songwriter and Producer, touring musician and Sound Engineer.
 
 ## Skills
 
